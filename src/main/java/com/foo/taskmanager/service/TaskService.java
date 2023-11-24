@@ -3,7 +3,6 @@ package com.foo.taskmanager.service;
 import com.foo.taskmanager.entity.Task;
 import com.foo.taskmanager.repository.TaskRepository;
 
-import java.util.Objects;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
